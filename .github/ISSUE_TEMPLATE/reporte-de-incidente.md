@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describa el incidente**
-Una descripción clara y concisa de lo que es el error.
+Una descripción clara y concisa de lo que es el error actual.
 
 **Cómo reproducirlo**
 Pasos para reproducir el comportamiento:
@@ -22,12 +22,13 @@ Una descripción clara y concisa de lo que esperaba que sucediera.
 
 **Evidencias**
 *Capturas de pantalla*
-Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
+conjunto de imagenes o videos que complementan la información dada en el reporte.
 
 **Contexto adicional**
 *Ambientes de ejecución*
-- Versión App: 1.0.0
-- OS: Windows 10
-- Browser: Google chrome 111.0.5563.147 
+- Versión App: X.X.X
+- OS: Windows XX, Mac XX, Ubuntu XX
+- Browser: [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX |  Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX  WKWebView ] 
 
 ***Agregue cualquier otro contexto sobre el problema aquí.***
+datos adicionales a los que se tenga acceso respecto al defecto. Por ejemplo, trazas de error, defecto similares ya reportados, posible solución, posible implementación de la solución, links a recursos externos que brinden más información: stackoverflow, gitter, etc.
